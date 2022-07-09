@@ -1,0 +1,4 @@
+﻿  laba5.cpp
+C:\Users\svalo\source\repos\laba5\MyVector.h(207): warning C4715: MyVector<char *>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\svalo\source\repos\laba5\MyVector.h(207): warning C4715: MyVector<int>::operator[]: значение возвращается не при всех путях выполнения
+  laba5.vcxproj -> C:\Users\svalo\source\repos\laba5\x64\Debug\laba5.exe
